@@ -15,6 +15,7 @@ I'm Muthuram Prasad, a passionate software developer from Coimbatore.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white)
 
 ## 📫 How to Reach Me
 - LinkedIn: [Muthuram Prasad]([www.linkedin.com/in/muthuram-prasad-2650a9119](https://www.linkedin.com/in/muthuram-prasad-2650a9119/)https://www.linkedin.com/in/muthuram-prasad-2650a9119/)
