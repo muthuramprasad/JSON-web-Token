@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Muthuram Prasad, a passionate software developer from [Your City, Country].
+I'm Muthuram Prasad, a passionate software developer from Coimbatore.
 
 ## 🚀 About Me
 - I'm a software developer with experience in backend development using Node.js and MongoDB.
